@@ -1,0 +1,12 @@
+1) download sfml 2.1
+2) make a new project that is a Win32 Project and choose, console
+3) make a .cpp file named main
+4) open up project properites and go to C/C++ > General, and in the include input field
+   type in "SFML-2.1\include (all configs)
+5) Linker > General > Additional Lib > "SFML-2.1\lib" (all configs)
+6) Linker > Input > Additonal Dependacies (Debug and Release) 
+              Graphics.dll, system.dlll....... (release)
+              Graphics-d.dll, ................ (debug)
+7) copy all the dll files in the bin folder of the sfml download folder into ur exe file location
+
+8) DONE!!!!!!!!!!!
