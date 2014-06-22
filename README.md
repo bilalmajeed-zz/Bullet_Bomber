@@ -22,5 +22,7 @@ Downloading
   6. After this you should be good, just import the main.cpp file and the source folder in ur IDE
   7. If any problems occur refer to the SFML documentation found on their site
 
+Additional Documentation is provided in the documentation folder
+
 Thanks for visting and any feedback will be greatly appreicated
 ---------------------------------------------------------------
