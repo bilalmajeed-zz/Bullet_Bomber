@@ -1,6 +1,6 @@
 //-------------BULLET BOMBER-----------------//
 //		Bilal Majeed and Ivan Nesevski
-//			   copyright 2014
+//		copyright 2014
 //-------------------------------------------//
 
 #include "source\Game.h"
